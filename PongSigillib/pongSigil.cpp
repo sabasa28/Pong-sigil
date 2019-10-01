@@ -34,7 +34,7 @@ int main()
 {
 	P1.x = 10;
 	P2.x = PantallaAncho - 10;
-	slWindow(PantallaAncho, PantallaAlto, "Pong en sigil, masomeno", false);
+	slWindow(PantallaAncho, PantallaAlto, "Pong en sigil-Iñaki Diez", false);
 	slSetFont(slLoadFont("ttf/white_rabbit.ttf"), 24);
 	slSetFontSize(25);
 
